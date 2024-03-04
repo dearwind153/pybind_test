@@ -1,9 +1,9 @@
 # pybind_test
 # warper c++ to python module
 
-1. mkdir build && cd build
+1. ./build.sh
 
-2. cmake ../ && make
+2. cd build
 
 3. python3
 
